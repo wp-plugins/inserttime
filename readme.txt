@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== insertTime ===
 Contributors: Shereefz
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=N226HQRRTNX3U&lc=US&item_name=insertTime&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: time, date, datetime, short codes, shortcodes, short code, shortcode
