@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: MIT
 License URI: http://opensource.org/licenses/MIT
 
-A simple wordpress plugin that adds a shorcode [time] tp insert your local time at page loading in a post, just write [time], [datetime] or [date] in your post after activating this.
+A simple wordpress plugin that adds a shorcode [time] tp insert your local time at page loading in a post.
 
 == Description ==
 
